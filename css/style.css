@@ -233,6 +233,7 @@ main {
     cursor: pointer;
     position: relative;
     /*top: 50px;*/
+    left:15px;
     right: 4px;
     margin-top: 15px;
     text-transform: uppercase;
