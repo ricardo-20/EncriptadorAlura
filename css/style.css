@@ -232,7 +232,7 @@ main {
     border: 1px solid #0A3871;
     cursor: pointer;
     position: relative;
-    top: 50px;
+    /*top: 50px;*/
     right: 4px;
     margin-top: 15px;
     text-transform: uppercase;
